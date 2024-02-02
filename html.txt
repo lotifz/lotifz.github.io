@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Zuber Biography</title>
+</head>
+<body style="background-color:Sky;">
+</body>
+</html>
+<p style="font: bold 48px cursive;color:green;text-align:center;">Biography</p>
+Paragraph: <p style="font: bold 48px cursive;color:green;text-align:center;">CSIT100-37</p>
+<ul>
+<li>Soccer 1</li>
+<li>Cricket 2</li>
+</ul>
+<hr />
+<hr />
+<br /><br /br />
+<p style="text-align:center;"><ing src="OIP.jpg" /></p>
+<br /><br /br />
+<table align="center" border="1" width="800">
+<tr>
+<td>Place Holder</td>
+<td>Place Holder</td>
+</tr>
+<tr>
+<td>Place Holder</td>
+<td>Place Holder</td>
+</tr>
+</table>
+<a href="https://montclair.edu">Montclair State University</a>
